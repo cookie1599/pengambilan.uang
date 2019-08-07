@@ -1,2 +1,2 @@
-# pengambilan.uang
+# pengambilan_uang
 c++ sistem bank
